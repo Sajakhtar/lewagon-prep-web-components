@@ -6,7 +6,7 @@
 
 We'll build a library of reusable commponents.
 
-[See Live]()
+[See Live](https://sajakhtar.github.io/lewagon-prep-web-components/)
 
 ## Index.html
 
